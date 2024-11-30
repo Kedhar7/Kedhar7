@@ -12,7 +12,7 @@ I’m a **problem solver**, aspiring **ML engineer**, and **tech enthusiast**, p
 
 🏆 **Achievements**:  
 - Best Project Award – RAEEUCCI International Conference
-- Gold Medalist in Robotics  
+- Gold Medalist in Robotics - First Lego League 
 - Hackathon Finalist – 72-Hour Pair Programming Challenge  
 ## 🌈 Fun Fact
 I’m also a **horse riding enthusiast** and a **national-level tennis player** – because life is about balancing passion and profession!
