@@ -21,7 +21,7 @@ I’m also a **horse riding enthusiast** and a **national-level tennis player** 
 ## 💡 Let’s Connect!
 
 📧 **Email**: [kedharnadh800@gmail.com](mailto:kedharnadh.k@outlook.com)  
-🌐 **LinkedIn**: [Kedharnadh K](https://www.linkedin.com/in/kedharnadh-k-30275623a/)  
+🌐 **LinkedIn**: [Kedharnadh K](https://www.linkedin.com/in/kedharnadhkamatham/)  
 🌟 **GitHub**: [Kedhar7](https://github.com/Kedhar7)  
 
 
