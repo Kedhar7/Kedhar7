@@ -11,9 +11,9 @@ I’m a **problem solver**, aspiring **ML engineer**, and **tech enthusiast**, p
 ## 🌟 Highlights
 
 🏆 **Achievements**:  
+- Global Rank 10 - Advent of Code'24
 - Winner Best Project Award – RAEEUCCI'24 International Conference
 - Winner Best Project Award - Nano Technology Project Expo'23
-- Hackathon Finalist – 72-Hour Pair Programming Challenge
 - Gold Medal in Robotics - First Lego League 
 ## 🌈 Fun Fact
 I’m also a **horse riding enthusiast** and a **national-level tennis player** – because life is about balancing passion and profession!
