@@ -5,7 +5,7 @@ I’m a **problem solver**, aspiring **ML engineer**, and **tech enthusiast**, p
 ## 🛠️ What I Do
 
 - **Innovative Tools**: Automated workflows with tools like a PDF Data Extraction Tool using multi-language OCR.
-- **Machine Learning**: Built deep learning models like a Skin Lesion Classification CNN with **82%+ accuracy**.   
+- **Machine Learning**: Built deep learning models like a Skin Lesion Classification CNN with **72%+ accuracy**.   
 - **Creative Solutions**: Designed systems like a self-sustaining park model and hospital management software.
 
 ## 🌟 Highlights
